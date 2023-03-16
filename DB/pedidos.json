@@ -1,0 +1,4 @@
+[
+  { "username": "Leo", "email": "leokkpo09@hotmail.com", "number": "1124559072", "avatar": "https://cdn.iconscout.com/icon/free/png-256/avatar-370-456322.png", "pedido": [{ "name": "Espada", "id": 1, "price": 4999, "thumbnail": "https://cdn.shopify.com/s/files/1/0478/9073/products/Excalibur_Full_Finished_455x455.jpg?v=1571269167", "cantidad": 1 }], "id": 1 },
+  { "username": "Leo", "email": "leokkpo09@hotmail.com", "number": "1124559072", "avatar": "https://cdn.iconscout.com/icon/free/png-256/avatar-370-456322.png", "pedido": [{ "name": "Espada", "id": 1, "price": 4999, "thumbnail": "https://cdn.shopify.com/s/files/1/0478/9073/products/Excalibur_Full_Finished_455x455.jpg?v=1571269167", "cantidad": 1 }], "id": 2 }
+]
